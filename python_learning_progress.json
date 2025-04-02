@@ -1,0 +1,40 @@
+{
+    "progress": {
+        "1": {
+            "completed": true,
+            "date_completed": "2025-03-30"
+        },
+        "2": {
+            "completed": true,
+            "date_completed": "2025-04-01"
+        }
+    },
+    "notes": {
+        "1": "int = just the number\nfloat = number with decimal\nstr = just the number\nyou can always redefine a variable it will always print the newest version of it \nprint(type(myvar))  the correct functions to print the data type of a variable:\nspent fifteen minutes",
+        "2": "+\tAddition\t5 + 2 = 7                      also one more thing i changed the practice exercise today to just perform operations on numbers\n\n-\tSubtraction\t4 - 2 = 2\n*\tMultiplication\t2 * 3 = 6\n/\tDivision\t4 / 2 = 2\n//\tFloor Division\t10 // 3 = 3\n%\tModulo\t5 % 2 = 1\n**\tPower\t4 ** 2 = 16\n=\tAssignment Operator\ta = 7\n+=\tAddition Assignment\ta += 1 # a = a + 1\n-=\tSubtraction Assignment\ta -= 3 # a = a - 3\n*=\tMultiplication Assignment\ta *= 4 # a = a * 4\n/=\tDivision Assignment\ta /= 3 # a = a / 3\n%=\tRemainder Assignment\ta %= 10 # a = a % 10\n**=\tExponent Assignment\ta **= 10 # a = a ** 10\n==\tIs Equal To\t3 == 5 gives us False\n!=\tNot Equal To\t3 != 5 gives us True\n>\tGreater Than\t3 > 5 gives us False\n<\tLess Than\t3 < 5 gives us True\n>=\tGreater Than or Equal To\t3 >= 5 give us False\n<=\tLess Than or Equal To\t3 <= 5 gives us True\nis \t=True if the operands are identical (refer to the same object)\tx is True\nis not =\tTrue if the operands are not identical (do not refer to the same object)\nin\tTrue if value/variable is found in the sequence\t5 in x\nnot in\tTrue if value/variable is not found in the sequence\n a if block is something that happens if and if the if block is not executed it will execute the else block\nElif means else if and is used It is used when you have multiple conditions to check after an if statement.\nand means both of them have to be true but or means that only one of them has to be true\nif you want a user to enter something use this command num1 = float(input(\"Enter first number: \")) if they are not entering a number just remove the float\nif you want to take the input you got and use it just use this if operation == '+':\n    answer = num1 + num2 this shows that if the input you got was a plus symbol than do this and if there are other use case scenarios just do elif and reprsent the other situations "
+    },
+    "uploads": {
+        "2": {
+            "filename": "2nd day of python.py",
+            "upload_time": "2025-04-01 01:26:17"
+        }
+    },
+    "time_spent": {},
+    "resources_used": {
+        "1": [
+            "W3Schools",
+            "Mosh's Video"
+        ],
+        "2": [
+            "Programiz",
+            "Corey Schafer's Video"
+        ]
+    },
+    "email_settings": {
+        "enabled": true,
+        "email": "karthikeyakallakuri0712@gmail.com",
+        "reminder_time": "16:15",
+        "missed_day_notification": true,
+        "daily_reminder": true
+    }
+}
